@@ -1,0 +1,3 @@
+ERROR: FATAL: could not connect to database at host=127.0.0.1 port=5432
+INFO: Retrying connection...
+SUCCESS: Connected successfully after 2 attempts
